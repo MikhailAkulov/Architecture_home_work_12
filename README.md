@@ -8,4 +8,4 @@
 
 Реализация:
 
-[ClinicDesctop](https://github.com/MikhailAkulov/Architecture_home_work_11/blob/main/ClinicService/ClinicDesktop/MainForm.cs)
+[PetControllerTests](https://github.com/MikhailAkulov/Architecture_home_work_12/blob/main/ClinicService/ClinicServiceTests/PetControllerTests.cs)
